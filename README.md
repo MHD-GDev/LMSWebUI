@@ -30,3 +30,5 @@ A simple WebUI for LMStudio.
 3.  Start LMStudio server with ```lms server start --cors=true```.
 4.  Open ```lms-ui-local.html``` in your browser.
 5.  Enjoy.🔥
+## Usage Note:
+The default system prompt is making any AI Model think like Deepseek-R1, you can change it by changing the system prompt or adding a whole new one in the html file.
