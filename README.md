@@ -10,4 +10,3 @@ A simple WebUI for LMStudio.
 3- Start LMStudio server with ```lms server start --cors=true```.
 4- Open ```lms-ui-local.html``` in your browser.
 5-Enjoy.🔥
-<img src="https://emojipedia-cdn.s3.amazonawsree... (truncated for brevity) 
